@@ -8,4 +8,11 @@ Daftar tugas / branch
   7. Tugas-finalProject
 
 Daftar perintah GiT
-…
+cd desktop
+pwd
+cd belajarGIT
+git branch 
+git add
+git commit -m
+git merge
+git push -u origin
